@@ -13,7 +13,7 @@ ul {
 
 h1 {
     font-size: 2em;
-    margin-bottom: 5%;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -36,12 +36,13 @@ h1 {
 
 .navigation {
     display: flex;
+    justify-content: center;
     align-items: center;
     height: 80px
 }
 
 .header-logo {
-    margin: 0 5%;
+    margin: 0 20px;
     font-size: xx-large;
 }
 
@@ -117,7 +118,7 @@ h1 {
 }
 
 .animation-wrapper h3 {
-    margin-top: 5%;
+    margin-top: 20px;
 }
 
 .animation button {
@@ -195,7 +196,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 5%;
+    margin-top: 20px;
     background-color: rgba(112, 237, 255, 0.28);
 }
 
@@ -203,7 +204,7 @@ h1 {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin-top: 5%;
+    margin-top: 20px;
 }
 
 .schedule-item {
@@ -214,8 +215,8 @@ h1 {
 
 .map {
     background-color: rgba(112, 237, 255, 0.28);
-    padding: 5%;
-    margin-top: 5%;
+    padding: 20px;
+    margin-top: 20px;
 }
 
 .map img {
@@ -227,7 +228,7 @@ h1 {
     flex-direction: column;
     align-items: center;
     background-color: rgba(112, 237, 255, 0.28);
-    margin-top: 5%;
+    margin-top: 20px;
 }
 
 .mentors {
@@ -258,7 +259,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 5%;
+    margin-top: 20px;
     background-color: rgba(112, 237, 255, 0.28);
 }
 
@@ -278,7 +279,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 5%;
+    margin-top: 20px;
     background-color: rgba(112, 237, 255, 0.28);
 }
 
@@ -298,7 +299,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5%;
+    margin-top: 20px;
     height: 100px;
     width: 100%
 }
@@ -460,7 +461,7 @@ h1 {
     }
 
     .header-logo {
-        margin: 0 5%;
+        margin: 0 20px;
         font-size: x-large;
     }
 
