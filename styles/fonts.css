@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'ArialNarrow';
+    src: url('../fonts/arial-narrow.ttf');    
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: 'Cantarell';
+    src: url('../fonts/Cantarell-Regular.ttf');    
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: 'TrendSans';
+    src: url('../fonts/Trend-Sans.otf');    
+    font-weight: normal;
+  }
